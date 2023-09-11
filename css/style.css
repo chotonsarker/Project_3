@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: blueviolet;
+    color: aliceblue;
+    text-align: center;
+    height: 50px;
+}
+.b{
+    padding-top: 30px;
+}
+.banner{
+    background-color: rgb(137, 11, 11);
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
+.main{
+    display: flex;
+}
+.main_left{
+    background-color: blue;
+    color: whitesmoke;
+    text-align: center;
+    width: 50%;
+    height: 500px;
+}
+.l_1{
+    padding-top: 200px;
+}
+.main_m{
+    background-color: brown;
+    color: whitesmoke;
+    text-align: center;
+    width: 25%;
+    height: 500px;   
+}
+.main_r{
+    background-color:burlywood;
+    color: rgb(27, 25, 25);
+    text-align: center;
+    width: 25%;
+    height: 500px; 
+}
+.top_box{
+    height: 250px;
+    background-color: hotpink;
+    color: black;
+    text-align: center;
+}
+.top{
+    padding-top: 125px;
+}
+.button_box{
+    height: 250px;
+    background-color: rgb(40, 207, 236);
+    color: rgb(23, 22, 22);
+    text-align: center;
+}
+.bu{
+    padding-top: 125px;
+}
+.top_r{
+    height: 250px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+.top{
+    padding-top: 125px;
+}
+.buttom_r{
+    height: 250px;
+    background-color: rgb(201, 1, 1);
+    color: black;
+    text-align: center;
+}
+.buttom{
+    padding-top: 125px;
+}
+footer{
+    background-color: mediumpurple;
+    color: beige;
+    text-align: center;
+    height: 100px;
+}
+.fot{
+    padding-top: 30px;
+}
